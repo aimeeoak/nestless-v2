@@ -1,14 +1,15 @@
 import { React } from 'react';
+import { Button } from 'react-bootstrap'
 import "./SearchButton.css";
 import SearchPopup from "./SearchPopup.js";
 import searchbutton from "../images/search-button.png"
 
 export default function SearchButton() {
     return (
-    <button className="button" onClick={SearchPopup}>
+    <Button className="button" onClick={SearchPopup}>
       <div>
         <img src={searchbutton} className="search-button" alt="Search Button" />
       </div>
-    </button>
+    </Button>
     );
   }

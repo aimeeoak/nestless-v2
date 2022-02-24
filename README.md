@@ -1,70 +1,36 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Nestless
 
-## Available Scripts
+Nestless is an app to help you make more informed purchases when shopping.
 
-In the project directory, you can run:
+Nestless uses React on the frontend and a [] API server on the backend. 
 
-### `npm start`
+OAR was created by Aimee Garriok ([@aimeeoak](https://github.com/aimeeoak)) and Molly Trepanier ([@mollyet](https://github.com/mollyet/)).
+## Screenshots
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![The Front Page](https://github.com/SThiara/fresh-OAR/blob/8531f6ad78e729fd0086f5022caf6d921b3734aa/docs/oar-front-page.png)
+- *The Front Page*
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+## Setup
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<!-- - Clone this project into your favourite directory! You will have two directories, `server` and `client`
+- Change directory into `server` and run `bundle install` and then `rake db:reset` to set up the Rails API server and load preset project data. 
+- While in the server directory, run `rails s` to start the API server. This should run on `localhost:3000`
+- Change directories to the `client` directory. 
+- Run `npm install` to install all dependencies for the client. 
+- To find all the search treasures, get a free trial API key from SerpApi and turn the .env.example into a real .env file. 
+- To start the client, run `npm start` and when prompted, allow react to choose its own localhost port to run on. 
+- Navigate to the given port, and have fun!  -->
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Dependencies 
+<!-- - Client 
+  - axios
+  - ant design 
+  - classnames
+  - dotenv
+  - http-proxy-middleware
+- Server
+  - dotenv-rails
+  - rails 6.01
+  - sqlite3 -->
