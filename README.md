@@ -5,10 +5,10 @@ Nestless is an app to help you make more informed purchases when shopping.
 
 Nestless uses React on the frontend and a [] API server on the backend. 
 
-OAR was created by Aimee Garriok ([@aimeeoak](https://github.com/aimeeoak)) and Molly Trepanier ([@mollyet](https://github.com/mollyet/)).
+Nestless was created by Aimee Garriok ([@aimeeoak](https://github.com/aimeeoak)) and Molly Trepanier ([@mollyet](https://github.com/mollyet/)).
 ## Screenshots
 
-![The Front Page](https://github.com/SThiara/fresh-OAR/blob/8531f6ad78e729fd0086f5022caf6d921b3734aa/docs/oar-front-page.png)
+![The Front Page](https://github.com/aimeeoak/nestless-v2/blob/cddd768bcd2797ee81dec790e6141866f0f5ef6c/src/images/nestless-screencap.png)
 - *The Front Page*
 
 
