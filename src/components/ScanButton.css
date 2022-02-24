@@ -1,9 +1,12 @@
 .button {
+    border: none;
+    background: none;
+}
+
+.scan-button {
     width: auto;
     height: 400px;
     display: flex;
-    margin: 10px;
-    overflow: hidden;
     animation: fadeIn 1s;
     -webkit-animation: fadeIn 1s;
     -moz-animation: fadeIn 1s;

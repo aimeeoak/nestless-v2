@@ -8,9 +8,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        Logo;
-        ScanButton;
-        SearchButton;
+        <Logo />
+        <ScanButton />
+        <SearchButton />
       </header>
     </div>
   );
