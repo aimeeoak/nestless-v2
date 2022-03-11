@@ -1,15 +1,15 @@
 .button {
-    border: none;
-    background: none;
+  border: none;
+  background: none;
 }
 
 .scan-button {
-    width: auto;
-    height: 400px;
-    display: flex;
-    animation: fadeIn 1s;
-    -webkit-animation: fadeIn 1s;
-    -moz-animation: fadeIn 1s;
-    -o-animation: fadeIn 1s;
-    -ms-animation: fadeIn 1s;
-} 
+  width: auto;
+  height: 400px;
+  display: flex;
+  animation: fadeIn 1s;
+  -webkit-animation: fadeIn 1s;
+  -moz-animation: fadeIn 1s;
+  -o-animation: fadeIn 1s;
+  -ms-animation: fadeIn 1s;
+}

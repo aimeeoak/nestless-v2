@@ -2,7 +2,7 @@ import { React } from 'react';
 import { Button } from 'react-bootstrap';
 import { useNavigate } from 'react-router-dom';
 import "./SearchButton.css";
-import searchbutton from "../images/search-button.png"
+import searchbutton from "../images/search-button.png";
 
 
 export default function SearchButton() {
