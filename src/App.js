@@ -19,18 +19,16 @@ function App() {
   return (
     <Router>
       <div className="App">
-        <header className="App-header">
           <div>
             <Settings />
             <Logo />
           </div>
-        </header>
-        <body>
           <div>
             <ScanButton />
+          </div>
+          <div>
             <SearchButton />
           </div>
-        </body>
       </div>
       <Routes>
         <Route path="/about" component={About} />
