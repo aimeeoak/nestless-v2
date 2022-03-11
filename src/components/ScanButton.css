@@ -3,6 +3,10 @@
   background: none;
 }
 
+.button:hover {
+  background: transparent;
+}
+
 .scan-button {
   width: auto;
   height: 400px;

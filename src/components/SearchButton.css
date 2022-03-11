@@ -3,11 +3,14 @@
   background: none;
 }
 
+.button:hover {
+  background: transparent;
+}
+
 .search-button {
   width: auto;
-  height: 150px;
+  height: 125px;
   display: flex;
-  padding-top: 3rem;
   animation: fadeIn 1s;
   -webkit-animation: fadeIn 1s;
   -moz-animation: fadeIn 1s;
