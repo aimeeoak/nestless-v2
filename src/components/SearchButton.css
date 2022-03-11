@@ -1,16 +1,16 @@
 .button {
-    border: none;
-    background: none;
+  border: none;
+  background: none;
 }
 
 .search-button {
-    width: auto;
-    height: 150px;
-    display: flex;
-    padding-top: 3rem;
-    animation: fadeIn 1s;
-    -webkit-animation: fadeIn 1s;
-    -moz-animation: fadeIn 1s;
-    -o-animation: fadeIn 1s;
-    -ms-animation: fadeIn 1s;
-} 
+  width: auto;
+  height: 150px;
+  display: flex;
+  padding-top: 3rem;
+  animation: fadeIn 1s;
+  -webkit-animation: fadeIn 1s;
+  -moz-animation: fadeIn 1s;
+  -o-animation: fadeIn 1s;
+  -ms-animation: fadeIn 1s;
+}

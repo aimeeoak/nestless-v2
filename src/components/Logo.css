@@ -1,11 +1,12 @@
 .logo {
-    width: auto;
-    height: 12rem;
-    display: flex;
-    margin: 1rem;
-    animation: fadeIn 1s;
-    -webkit-animation: fadeIn 1s;
-    -moz-animation: fadeIn 1s;
-    -o-animation: fadeIn 1s;
-    -ms-animation: fadeIn 1s;
-} 
+  background-color: transparent;
+  width: auto;
+  height: 12rem;
+  display: flex;
+  margin: 1rem;
+  animation: fadeIn 1s;
+  -webkit-animation: fadeIn 1s;
+  -moz-animation: fadeIn 1s;
+  -o-animation: fadeIn 1s;
+  -ms-animation: fadeIn 1s;
+}
